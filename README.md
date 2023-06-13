@@ -6,10 +6,12 @@ Welcome to Fury! These Terms of Service ("Terms") govern your use of the Fury ga
 
 ## 1. Acceptance of Terms
    1.1. These Terms constitute a legally binding agreement between you and Fury. By using the Bot, you represent that you have read and understood these Terms and agree to be bound by them.
+
    1.2. If you do not agree with any provision of these Terms, you may not use the Bot.
 
 ## 2. Bot Usage
    2.1. Fury is a games bot for Discord designed to enhance your gaming experience. The Bot provides various features, such as game-specific commands, leaderboards, and interactive elements.
+
    2.2. You may only use the Bot in connection with Discord and in compliance with Discord's Terms of Service.
 
 ## 3. User Responsibilities
