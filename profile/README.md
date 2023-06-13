@@ -59,7 +59,9 @@ Welcome to Fury! This Privacy Policy describes how Fury collects, uses, and prot
 
 ## 1. Information We Collect
    1.1. Fury collects and stores the following information from Discord servers and their members:
+
        - Server ID: The unique identifier of the Discord server where Fury is installed.
+
        - Member ID: The unique identifier of Discord members who interact with Fury.
 
    1.2. Fury does not collect any personally identifiable information (PII) such as names, addresses, or contact information.
