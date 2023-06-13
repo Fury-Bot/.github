@@ -68,8 +68,11 @@ Welcome to Fury! This Privacy Policy describes how Fury collects, uses, and prot
 
 ## 2. Use of Information
    2.1. Fury uses the collected information for the following purposes:
+
        - To provide and improve the functionality of the Bot.
+
        - To personalize and enhance the user experience.
+
        - To generate aggregated and anonymized statistics about Bot usage.
 
    2.2. Fury does not sell, rent, or disclose the collected information to any third parties unless required by law or as described in this Privacy Policy.
@@ -81,6 +84,7 @@ Welcome to Fury! This Privacy Policy describes how Fury collects, uses, and prot
 
 ## 4. Security
    4.1. Fury takes reasonable measures to protect the collected information from unauthorized access, use, or disclosure.
+
    4.2. However, please note that no method of transmission over the Internet or method of electronic storage is 100% secure. Fury cannot guarantee the absolute security of the information.
 
 ## 5. Children's Privacy
